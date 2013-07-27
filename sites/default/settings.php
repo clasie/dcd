@@ -215,9 +215,9 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'dru_equiselect',
-      'username' => 'root',
-      'password' => 'geo231094',
+      'database' => '',
+      'username' => '',
+      'password' => '',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
