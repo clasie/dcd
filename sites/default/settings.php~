@@ -215,13 +215,13 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'drupal_test',
-      'username' => 'root',
-      'password' => 'geo231094',
+      'database' => '',
+      'username' => '',
+      'password' => '',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
-      'prefix' => 'drunewbase7_',
+      'prefix' => '',
     ),
   ),
 );
